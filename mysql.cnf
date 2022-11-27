@@ -1,0 +1,5 @@
+[client]
+database = 'REELCAT'
+user = 'root'
+password = 'Gabriel@1199#'
+default-character-set = 'utf8'
